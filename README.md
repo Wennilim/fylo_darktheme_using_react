@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### Output
-<Img='desktop-preview.jpg'/>
-<Img='desktop-design.jpg'/>
-<Img='active-states.jpg'/>
-<Img='mobile-design.jpg'/>
+<Img Src='desktop-preview.jpg'/>
+<Img Src='desktop-design.jpg'/>
+<Img Src='active-states.jpg'/>
+<Img Src='mobile-design.jpg'/>
